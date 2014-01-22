@@ -4,12 +4,13 @@ This is a simple JavaScript file using jQuery to show/hide the columns to help f
 
 ## Requirements
 
-* [Bootstrap 3.x][http://getbootstrap.com/] or higher
-* [jQuery] [http://jquery.com/]
+* [Bootstrap 3.x](http://getbootstrap.com/) or higher
+* [jQuery] (http://jquery.com/)
 
 ## Project Setup
 
 1. Include **dev-ck.js** into your **HTML** file.
+
 > <script src="/js/dev.js"></script>
 
 ## Project Setup
